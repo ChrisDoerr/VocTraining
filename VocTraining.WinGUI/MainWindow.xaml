@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="Voc Training"
         Width="1280" Height="720"
-        Background="#424242">
+        Background="#424242" Foreground="#FFF">
     <Grid>
     </Grid>
 </Window>
